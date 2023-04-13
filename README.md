@@ -1,0 +1,2 @@
+# sitirahma-deplearning
+Tugas deplarning
